@@ -15,4 +15,5 @@ main =
     print $ hanoi 0 "a" "b" "c"
     print $ hanoi 1 "a" "b" "c"
     print $ hanoi 2 "a" "b" "c"
+    print $ hanoi 3 "a" "b" "c"    
 
